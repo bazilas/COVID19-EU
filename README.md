@@ -10,8 +10,14 @@ Official website of the European Union: [https://europa.eu/european-union/about-
 ## How to Use
 Launch the notebook [covid19-eu.ipynb](https://github.com/bazilas/COVID19-EU/blob/master/covid19-eu.ipynb).
 
-## Plots for the 10 most infected EU Countries
+## Plots for 10 most infected EU countries
 ![enter image description here](https://raw.githubusercontent.com/bazilas/COVID19-EU/master/covid-19-eu-10.png)
 
-## Plots for all infected EU Countries
+## Plots for all infected EU countries
 ![enter image description here](https://raw.githubusercontent.com/bazilas/COVID19-EU/master/covid-19-eu-all.png)
+
+## Plots for first 10 EU countries with most deaths
+![enter image description here](https://raw.githubusercontent.com/bazilas/COVID19-EU/master/covid-19-eu-10-deaths.png)
+
+## Plots for EU countries deaths
+![enter image description here](https://raw.githubusercontent.com/bazilas/COVID19-EU/master/covid-19-eu-all-deaths.png)
