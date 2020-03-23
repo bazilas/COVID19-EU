@@ -13,6 +13,9 @@ Launch the notebook [covid19-eu.ipynb](https://github.com/bazilas/COVID19-EU/blo
 ## Cumulative Plots for 10 most infected EU countries
 ![enter image description here](https://raw.githubusercontent.com/bazilas/COVID19-EU/master/covid-19-eu-10.png)
 
+## Rate of change: 10 most infected EU countries
+![enter image description here](https://raw.githubusercontent.com/bazilas/COVID19-EU/master/covid-19-eu-10-gradient.png)
+
 ## Cumulative Plots for all infected EU countries
 ![enter image description here](https://raw.githubusercontent.com/bazilas/COVID19-EU/master/covid-19-eu-all.png)
 
